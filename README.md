@@ -1,5 +1,7 @@
 # Custom Iterators with Blocks
 
+**NOTE:** There are solutions in the `iterators.rb` file
+
 ## Implement a method `each`
 We'll need to define a method `each` that takes in an array and a block. The method should run the block on each element of the array. Remember that the block need not be passed in explicitly.
 
